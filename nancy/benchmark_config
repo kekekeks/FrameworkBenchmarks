@@ -17,6 +17,14 @@
       "query_url": "/db/",
       "port": 8080,
       "sort": 137
+    },
+    "libevent2": {
+      "setup_file": "setup_libevent",
+      "json_url": "/json",
+      "db_url": "/db",
+      "query_url": "/db/",
+      "port": 8080,
+      "sort": 323
     }
   }]
 }
